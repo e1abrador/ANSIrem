@@ -1,6 +1,6 @@
 # ANSIrem
 
-ANSIrem will remove all ANSI characters on a given text file, for example:
+ANSIrem will remove all ANSI characters on a given text file (updating the same file, not creating a new one), for example:
 
 ````none
 $ cat results.txt
